@@ -3,8 +3,8 @@
 int main () {
     std::cin.tie(NULL);
     std::ios::sync_with_stdio(false);
-    int a, b;
-    int sum;
+    long long int a, b;
+    long long int sum;
 
     std::cin >> a >> b;
 
